@@ -1,0 +1,9 @@
+{
+	"name": "paruchuriAdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddb1dc85-be55-480e-a522-ddfd2de3c33a",
+		"tenantId": "964d5997-607f-4588-aeca-adabf772deb2"
+	}
+}
